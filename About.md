@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-###Who am I?
+## Who am I?
 
 I am a newbie programmer studying Computer Science for game development at Falmouth university. Unlike most other students I had no background in programming prior to beginning the course 8 months ago. 
 
