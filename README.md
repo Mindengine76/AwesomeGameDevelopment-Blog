@@ -1,1 +1,1 @@
-# GameDev-website
+# GameDev-blog
