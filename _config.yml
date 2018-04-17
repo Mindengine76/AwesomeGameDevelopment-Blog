@@ -1,9 +1,9 @@
 # basic options
-title: Your awesome title
-author: github user
-email: your awesome email -email@domain.com
+title: Game Development blog 
+author: Mindengine76
+email: -JC206631@falmouth.ac.uk
 description: A wonderful story
-github_username: jekyll
+github_username: Mindengine76
 
 #Build settings
 markdown: kramdon
