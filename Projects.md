@@ -7,3 +7,8 @@ title: Projects
 
 - DarkWorld (RPG)
 - Sapphire tears (Couch co-op)
+
+### Micro controller projects
+- Blocks (SDL)
+
+### Art and technology projects
