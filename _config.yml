@@ -6,5 +6,5 @@ description: A wonderful story
 github_username: Mindengine76
 
 #Build settings
-markdown: kramdon
+markdown: 
 theme: minima
